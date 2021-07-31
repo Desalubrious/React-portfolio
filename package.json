@@ -1,7 +1,8 @@
 {
+  "homepage": "http://desalubrious.github.io/React-portfolio",
   "name": "react-portfolio",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "Portfolio",
   "version": "0.1.0",
   "author": "Evan Mora",
   "dependencies": {
@@ -15,6 +16,7 @@
     "gatsby-plugin-smoothscroll": "^1.2.0",
     "gatsby-source-filesystem": "^2.5.0",
     "gatsby-transformer-sharp": "^2.6.0",
+    "gh-pages": "^3.2.3",
     "node-sass": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
@@ -37,15 +39,16 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-default.git"
+    "url": "git+https://github.com/desalubrious/react-portfolio"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-default#readme",
-  "main": "gatsby-browser.js"
+    "url": "https://github.com/desalubrious/react-portfolio"
+  }
+ 
 }
