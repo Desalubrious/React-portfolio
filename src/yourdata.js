@@ -61,7 +61,7 @@ export default {
         "This ecommerce backend is easily deployable for quick inventory management.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./src/images/insomnia.png",
+        "https://github.com/Desalubrious/React-portfolio/blob/main/src/images/insomnia.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/Desalubrious/ORM-e-commerce",
     },
@@ -82,13 +82,13 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "I am a proud Colorado Native, but I moved to Wyoming to study Computer Science at the University of Wyoming",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I currently am completing coursework in Full Stack Engineering with the University of Denver, expected completion, July 2021.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "I love to meet and connect with new people, so I am eager to get to know you on an individual level.",
   aboutImage:
-    "https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/20245402_1591355694249367_1827142236156729797_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=1chSnV9MDUwAX-u51uD&_nc_ht=scontent-sea1-1.xx&oh=c7294f1ca3a73cfeded97a2968c83452&oe=612C1985",
+    "https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/17757592_1482273645157573_4046463666911590902_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=iNbsnqjptSEAX9Dwm_7&_nc_ht=scontent-sea1-1.xx&oh=e0a954c164a0df7a3c934e6d0f9632cf&oe=6129DD99",
 
   //   End About Section ---------------------
 
