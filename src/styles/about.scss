@@ -39,11 +39,12 @@
     }
   }
   .image-wrapper {
-    width: 50%;
+    width: 40%;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    height: 1080px;
     @include media(">=phone", "<lgphone") {
       width: 100%;
     }

@@ -18,15 +18,15 @@ export default {
   name: "Evan Mora",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Developing your ideas,",
     //Line 2 For Header
-    "products, brands,",
+    " beautiful webpages,",
     //Line 3 For Header
-    "and experience",
+    "growing brands",
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am a Wyoming based Full Stack Developer, out of the University of Denver!",
+    "I am a Wyoming based Full Stack Developer, out of the University of Denver",
 
   //Contact Email
   contactEmail: "evanrmora@gmail.com",
@@ -88,7 +88,7 @@ export default {
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/20245402_1591355694249367_1827142236156729797_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=1chSnV9MDUwAX-u51uD&_nc_ht=scontent-sea1-1.xx&oh=c7294f1ca3a73cfeded97a2968c83452&oe=612C1985",
 
   //   End About Section ---------------------
 
@@ -100,32 +100,32 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Modern HTML",
     },
     {
       img: cssIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Stylish CSS",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Powerful JavaScript",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Responsive React Apps",
     },
     {
       img: designIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Application planning",
     },
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Experienced in: C++, C#, Java, JS, Jquery, Node, SQL Databases, and many more.",
     },
   ],
 
@@ -135,7 +135,7 @@ export default {
 
   promotionHeading: "Heading",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I have the knowledge and ability to help you with your next website redesign, as well as any high level full stack engineering.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------

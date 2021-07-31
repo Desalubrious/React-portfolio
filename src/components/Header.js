@@ -48,6 +48,13 @@ const Header = () => {
             >
               CONNECT WITH ME
             </a>
+            <a
+              href="public/resume/Evan Mora Resume 2021.pdf"
+              download="Evan Mora Resume 2021.pdf"
+              className="primary-btn"
+            >
+              DOWNLOAD MY RESUME
+            </a>
           </Fade>
         </div>
       </div>
